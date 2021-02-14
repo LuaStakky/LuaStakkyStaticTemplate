@@ -21,7 +21,7 @@ This template writed for [LuaStakky](https://github.com/LuaStakky/LuaStakky) pro
 ## for ssl:
 
 1. Write CERTIFICATE and PRIVATE KEY into `Certificates` file
-2. Rewrite security section in like this `stakky.yaml`
+2. Rewrite security section in `stakky.yaml` like this:
 
         security:
           allow_http: false
