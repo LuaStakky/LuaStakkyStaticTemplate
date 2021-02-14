@@ -2,7 +2,7 @@
 
 This template writed for [LuaStakky](https://github.com/LuaStakky/LuaStakky) project.
 
-**!When creating new project dont remember change salt in `TarantoolApp\Users\crypto.lua` to random string!**
+**!When creating new project don't remember change salt in `TarantoolApp\Users\crypto.lua` to random string!**
 
 ## What include in this template?
 
